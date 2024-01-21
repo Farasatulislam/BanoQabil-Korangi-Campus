@@ -2,7 +2,7 @@
 <br>
 Instructor Name:Ghufran KamalUddin
 <br>
-This is my first resporitroy.
+This is my first repoistory.
 <br>
 My name is Farasat-ul-islam, I am Bano Qabil Student.
 <br>

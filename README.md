@@ -1,4 +1,4 @@
-# BanoQabil-Korangi-Campus 7pm to 9pm
+# BanoQabil-2.0-Korangi-Campus 7pm to 9pm
 <br>
 Instructor Name:Ghufran KamalUddin
 <br>

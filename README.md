@@ -1,6 +1,6 @@
 # BanoQabil-Korangi-Campus 7pm to 9pm
 <br>
-Instructor Name:Ghufran Kamal Uddin
+Instructor Name:Ghufran KamalUddin
 <br>
 This is my first resporitroy.
 <br>

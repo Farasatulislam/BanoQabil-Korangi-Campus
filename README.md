@@ -2,7 +2,7 @@
 <br>
 Instructor Name:Ghufran KamalUddin
 <br>
-This is my first repoistory.
+This is my first Repository.
 <br>
 My name is Farasat-ul-islam, I am Bano Qabil Student.
 <br>

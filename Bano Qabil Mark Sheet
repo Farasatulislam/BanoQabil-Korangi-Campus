@@ -1,0 +1,24 @@
+# we have created a simple mark sheet with ELIF statement
+print("BANO QABIL MARK SHEET")
+percentage=int(input("Enter your Percentage %:"))
+# Here,we are taking an integer percentage and taking input dynamically
+if percentage>90 and percentage<=100:
+# Here,we are checking the condition. If the condition is true,we will enter the block   
+    print("Congrats! you scored grade A+")
+elif percentage>80 and percentage<= 90:
+#Here,we are checking the condition. If the condition is true,we will enter the block
+    print("You scored grade A")
+elif percentage>70 and percentage<=80:
+#Here,we are checking the condition. If the condition is true,we will enter the block    
+    print("You scored grade B")
+elif percentage>60 and percentage<=70:
+#Here,we are checking the condition. If the condition is true,we will enter the block    
+    print("you scored grade C")
+elif percentage>50 and percentage<=60:
+#Here,we are checking the condition. If the condition is true,we will enter the block
+    print("you scored grade D")
+elif percentage>40 and percentage<=50:
+#Here,we are checking the condition. If the condition is true,we will enter the block    
+    print("you scored grade E")
+else:
+    print("Sorry you are fail.")

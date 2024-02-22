@@ -4,6 +4,6 @@ Instructor Name:Ghufran KamalUddin
 <br>
 This is my first Repository.
 <br>
-My name is Farasat-ul-islam, I am Bano Qabil Student.
+My name is Farasat-ul-islam, I am student of BanoQabil 2.0
 <br>
 My course name is Office with Python.
